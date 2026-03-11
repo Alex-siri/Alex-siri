@@ -55,7 +55,7 @@
   <!-- Left Column: Stats + Top Languages -->
   <td valign="top">
     <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Alex-siri&show_icons=true&theme=tokyonight" /><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Alex-siri&show_icons=true&theme=tokyonight" /><br><br>
 
     <!-- Top Languages -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-siri&layout=compact&theme=tokyonight&cache_seconds=1800" />
@@ -64,7 +64,13 @@
   <!-- Right Column: Streaks -->
   <td valign="top" style="padding-left:20px;">
     <!-- Total Contributions -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-siri&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=000000&ring=FFD700&fire=FF4500&currStreakLabel=Current%20Streak&totalLabel=Total%20Contributions&sideLabels=Longest%20Streak&dates=1" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-siri&theme=tokyonight&hide_border=true&mode=weekly" /><br><br>
+
+    <!-- Current Streak -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-siri&theme=tokyonight&hide_border=true&mode=curr" /><br><br>
+
+    <!-- Longest Streak -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-siri&theme=tokyonight&hide_border=true&mode=long" />
   </td>
 
 </tr>
