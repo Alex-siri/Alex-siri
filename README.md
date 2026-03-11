@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 3rd Year Information Technology Student
-- 💻 Interested in software development and backend systems
+- 💻 Interested in software development
 - 🐧 Linux user who enjoys working in open-source environments
 - 📚 Continuously learning new technologies and improving problem-solving skills
 - 🚀 Working on building real-world projects to strengthen my development experience
