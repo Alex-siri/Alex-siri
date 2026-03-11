@@ -1,7 +1,6 @@
 # Hi, I'm Alula 👋
 
 💻 IT Student passionate about technology, software development, and building useful systems.  
-<span style="color:#FFD700;">Specializing in backend development, database design, and open-source contributions.</span>
 
 ---
 
@@ -56,8 +55,8 @@
 <!-- Top Languages (default Tokyonight) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-siri&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
-<!-- GitHub Streak (unchanged) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-siri&theme=tokyonight&hide_border=true" />
+<!-- GitHub Streak (black background + golden) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-siri&theme=dark&hide_border=false&background=000000&stroke=FFD700&fire=FFD700&currStreakLabel=FFD700&totalLabel=FFD700&sideLabels=FFD700" />
 
 ---
 
