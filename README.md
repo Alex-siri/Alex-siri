@@ -1,16 +1,27 @@
-# Hi, I'm Alula 👋
+# Hi, I'm Alula👋
 
-💻 IT Student passionate about technology and building useful systems.
+💻 IT Student passionate about technology, software development, and building useful systems.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 3rd Year Information Technology Student
+- 💻 Interested in software development and backend systems
+- 🐧 Linux user who enjoys working in open-source environments
+- 📚 Continuously learning new technologies and improving problem-solving skills
+- 🚀 Working on building real-world projects to strengthen my development experience
 
 ---
 
 ## 🚀 What I'm Working On
 
-- Improving my programming skills
-- Learning backend development
-- Building real-world projects
+- Improving programming and problem-solving skills
+- Learning backend development and system design
+- Building real-world software projects
 
 ---
+
 ## 🛠 Tools & Technologies
 
 ### Programming Languages
@@ -24,17 +35,16 @@
 
 ### Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-## 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Programming Concepts
+![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-blue?style=for-the-badge)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -52,4 +62,4 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dovvmas)
 
----
+--
