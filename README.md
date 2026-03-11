@@ -1,10 +1,10 @@
-# Hi, I'm Alula👋
+# <span style="color:#FFD700;">Hi, I'm Alula 👋</span>
 
-💻 IT Student passionate about technology, software development, and building useful systems.
+<p style="color:#111111;">💻 IT Student passionate about technology, software development, and building useful systems.</p>
 
 ---
 
-## 👨‍💻 About Me
+## <span style="color:#FFD700;">👨‍💻 About Me</span>
 
 - 🎓 3rd Year Information Technology Student
 - 💻 Interested in software development 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 What I'm Working On
+## <span style="color:#FFD700;">🚀 What I'm Working On</span>
 
 - Improving programming and problem-solving skills
 - Learning backend development and system design
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠 Tools & Technologies
+## <span style="color:#FFD700;">🛠 Tools & Technologies</span>
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,19 +46,21 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-## 📊 GitHub Stats
+
+## <span style="color:#FFD700;">📊 GitHub Stats</span>
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Alex-siri&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Alex-siri&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=111111&bg_color=000000&hide_border=false&width=500" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-siri&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-siri&layout=compact&theme=dark&title_color=FFD700&text_color=111111&bg_color=000000&cache_seconds=1800&width=500" />
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-siri&theme=tokyonight&hide_border=true" />
-</tr>
-</table>
-## 📬 Contact
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-siri&theme=dark&hide_border=false&background=000000&stroke=FFD700&fire=FF4500&currStreakLabel=FFD700&totalLabel=FFD700&sideLabels=FFD700" />
+
+---
+
+## <span style="color:#FFD700;">📬 Contact</span>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alula-muzey-araya/)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dovvmas)  
