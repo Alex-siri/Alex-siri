@@ -49,10 +49,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex-siri&show_icons=true&theme=tokyonight)
-
-## 📊 GitHub Stats
-
 <p float="left">
 
   <!-- GitHub Stats -->
