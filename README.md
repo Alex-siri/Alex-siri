@@ -46,33 +46,16 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+## 📊 GitHub Stats
 
-## 📊 GitHub Stats & Streaks
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Alex-siri&show_icons=true&theme=tokyonight" />
 
-<table>
-<tr>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-siri&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
-  <!-- Left Column: Stats + Top Languages -->
-  <td valign="top">
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Alex-siri&show_icons=true&theme=tokyonight" /><br><br>
-
-    <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-siri&layout=compact&theme=tokyonight&cache_seconds=1800" />
-  </td>
-
-  <!-- Right Column: Streaks -->
-  <td valign="top" style="padding-left:20px;">
-    <!-- Total Contributions -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-siri&theme=tokyonight&hide_border=true&mode=weekly" /><br><br>
-
-    <!-- Current Streak -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-siri&theme=tokyonight&hide_border=true&mode=curr" /><br><br>
-
-    <!-- Longest Streak -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-siri&theme=tokyonight&hide_border=true&mode=long" />
-  </td>
-
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-siri&theme=tokyonight&hide_border=true" />
 </tr>
 </table>
 ## 📬 Contact
