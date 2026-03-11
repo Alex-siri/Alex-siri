@@ -1,24 +1,25 @@
-# Hi, I'm Alula👋
+# Hi, I'm Alula 👋
 
-💻 IT Student passionate about technology, software development, and building useful systems.
+💻 IT Student passionate about technology, software development, and building useful systems.  
+<span style="color:#FFD700;">Specializing in backend development, database design, and open-source contributions.</span>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd Year Information Technology Student
-- 💻 Interested in software development 
-- 🐧 Linux user who enjoys working in open-source environments
-- 📚 Continuously learning new technologies and improving problem-solving skills
-- 🚀 Working on building real-world projects to strengthen my development experience
+- 🎓 3rd Year Information Technology Student  
+- 💻 Interested in software development  
+- 🐧 Linux user who enjoys working in open-source environments  
+- 📚 Continuously learning new technologies and improving problem-solving skills  
+- 🚀 Building real-world projects to strengthen my development experience  
 
 ---
 
 ## 🚀 What I'm Working On
 
-- Improving programming and problem-solving skills
-- Learning backend development and system design
-- Building real-world software projects
+- Improving programming and problem-solving skills  
+- Learning backend development and system design  
+- Developing real-world software projects  
 
 ---
 
@@ -46,6 +47,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats -->
@@ -58,6 +60,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-siri&theme=dark&hide_border=false&background=000000&stroke=FFD700&fire=FF4500&currStreakLabel=FFD700&totalLabel=FFD700&sideLabels=FFD700" />
 
 ---
+
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alula-muzey-araya/)  
