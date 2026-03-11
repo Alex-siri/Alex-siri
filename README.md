@@ -70,7 +70,7 @@
 
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-siri&layout=compact&theme=tokyonight&cache_seconds=1800)
+
 
 ---
 
