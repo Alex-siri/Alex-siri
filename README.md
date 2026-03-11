@@ -63,7 +63,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alula-muzey-araya/)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dovvmas)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dovvmas/)  
-
-📞 Phone: +251 963 512 932, +251 704 178 721
+[![Call +251 963 512 932](https://img.shields.io/badge/Call-%2B251963512932-black?style=for-the-badge&logo=phone&logoColor=FFD700)](tel:+251963512932)  
+[![Call +251 704 178 721](https://img.shields.io/badge/Call-%2B251704178721-black?style=for-the-badge&logo=phone&logoColor=FFD700)](tel:+251704178721)
 
 ---
