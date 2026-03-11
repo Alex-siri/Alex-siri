@@ -51,6 +51,25 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex-siri&show_icons=true&theme=tokyonight)
 
+## 📊 GitHub Stats
+
+<p float="left">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex-siri&show_icons=true&theme=tokyonight" width="49%" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-siri&layout=compact&theme=tokyonight&cache_seconds=1800" width="49%" />
+
+</p>
+
+<p float="left">
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-siri&theme=tokyonight&hide_border=true" width="49%" />
+
+</p>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-siri&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
