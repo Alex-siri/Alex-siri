@@ -50,14 +50,14 @@
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Alex-siri&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFD700&bg_color=000000&hide_border=false" />
+<!-- GitHub Stats (default Tokyonight) -->
+<img src="https://github-readme-stats.vercel.app/api?username=Alex-siri&show_icons=true&theme=tokyonight" />
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-siri&layout=compact&theme=dark&title_color=FFD700&text_color=FFD700&bg_color=000000&cache_seconds=1800" />
+<!-- Top Languages (default Tokyonight) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-siri&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-siri&theme=dark&hide_border=false&background=000000&stroke=FFD700&fire=FF4500&currStreakLabel=FFD700&totalLabel=FFD700&sideLabels=FFD700" />
+<!-- GitHub Streak (unchanged) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-siri&theme=tokyonight&hide_border=true" />
 
 ---
 
