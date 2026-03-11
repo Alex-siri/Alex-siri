@@ -1,4 +1,4 @@
-# Hi, I'm Alula👋
+# Hi, I'm Alula 👋
 
 💻 IT Student passionate about technology, software development, and building useful systems.
 
@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 3rd Year Information Technology Student
-- 💻 Interested in software development
+- 💻 Interested in software development 
 - 🐧 Linux user who enjoys working in open-source environments
 - 📚 Continuously learning new technologies and improving problem-solving skills
 - 🚀 Working on building real-world projects to strengthen my development experience
@@ -51,19 +51,16 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex-siri&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-siri&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-siri&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alula-muzey-araya/)
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dovvmas)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dovvmas/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alula-muzey-araya/)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dovvmas)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dovvmas/)  
 
 📞 Phone: +251 963 512 932
 
-📞 Phone: +251 704 178 721
---
+---
