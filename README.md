@@ -61,4 +61,9 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dovvmas)
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dovvmas/) 
+
+📞 Phone: +251 963 512 932
+
+📞 Phone: +251 704 178 721
 --
