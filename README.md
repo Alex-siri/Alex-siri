@@ -6,19 +6,19 @@
 
 ## <span style="color:#FFD700;">👨‍💻 About Me</span>
 
-- 🎓 3rd Year Information Technology Student
-- 💻 Interested in software development 
-- 🐧 Linux user who enjoys working in open-source environments
-- 📚 Continuously learning new technologies and improving problem-solving skills
-- 🚀 Working on building real-world projects to strengthen my development experience
+- 🎓 3rd Year Information Technology Student  
+- 💻 Interested in software development  
+- 🐧 Linux user who enjoys working in open-source environments  
+- 📚 Continuously learning new technologies and improving problem-solving skills  
+- 🚀 Working on building real-world projects to strengthen my development experience  
 
 ---
 
 ## <span style="color:#FFD700;">🚀 What I'm Working On</span>
 
-- Improving programming and problem-solving skills
-- Learning backend development and system design
-- Building real-world software projects
+- Improving programming and problem-solving skills  
+- Learning backend development and system design  
+- Building real-world software projects  
 
 ---
 
@@ -47,16 +47,28 @@
 
 ---
 
-## <span style="color:#FFD700;">📊 GitHub Stats</span>
+## <span style="color:#FFD700;">📊 GitHub Stats & Streak</span>
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Alex-siri&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=111111&bg_color=000000&hide_border=false&width=500" />
+<table>
+<tr>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-siri&layout=compact&theme=dark&title_color=FFD700&text_color=111111&bg_color=000000&cache_seconds=1800&width=500" />
+  <!-- Left Column: Stats + Top Languages -->
+  <td valign="top">
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=Alex-siri&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFD700&bg_color=000000&hide_border=false&width=500" /><br><br>
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-siri&theme=dark&hide_border=false&background=000000&stroke=FFD700&fire=FF4500&currStreakLabel=FFD700&totalLabel=FFD700&sideLabels=FFD700" />
+    <!-- Top Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-siri&layout=compact&theme=dark&title_color=FFD700&text_color=FFD700&bg_color=000000&cache_seconds=1800&width=500" />
+  </td>
+
+  <!-- Right Column: Streaks -->
+  <td valign="top" style="padding-left:20px;">
+    <!-- Total Contributions -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-siri&theme=dark&hide_border=false&background=000000&stroke=FFD700&fire=FF4500&currStreakLabel=FFD700&totalLabel=FFD700&sideLabels=FFD700" />
+  </td>
+
+</tr>
+</table>
 
 ---
 
