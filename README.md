@@ -1,6 +1,6 @@
 # Hi, I'm Alula 👋
 
-💻 IT Student passionate about technology and building useful systems.
+💻 IT Student passionate about technology and building useful systems
 
 ---
 
