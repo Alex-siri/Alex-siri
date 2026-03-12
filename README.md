@@ -56,7 +56,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-siri&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
 <!-- GitHub Streak (black background + golden) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-siri&theme=dark&hide_border=false&background=000000&stroke=FFD700&fire=FFD700&currStreakLabel=FFD700&totalLabel=FFD700&sideLabels=FFD700" />
+<img src="https://streak-stats.demolab.com?user=Alex-siri&theme=dark&hide_border=false&background=000000&stroke=FFD700&fire=FFD700&currStreakLabel=FFD700&totalLabel=FFD700&sideLabels=FFD700" />
 
 ---
 
