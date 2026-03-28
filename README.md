@@ -1,13 +1,13 @@
 # Hi, I'm Alula 👋
 
-💻 IT Student passionate about technology, software development, and building useful systems.  
+💻 Full-Stack Developer passionate about technology, software development, and building useful systems.  
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd Year Information Technology Student  
-- 💻 Interested in software development  
+- 💼 Full-Stack Developer seeking job opportunities  
+- 💻 Focused on building scalable and user-friendly software solutions  
 - 🐧 Linux user who enjoys working in open-source environments  
 - 📚 Continuously learning new technologies and improving problem-solving skills  
 - 🚀 Building real-world projects to strengthen my development experience  
@@ -16,9 +16,9 @@
 
 ## 🚀 What I'm Working On
 
-- Improving programming and problem-solving skills  
-- Learning backend development and system design  
-- Developing real-world software projects  
+- Building and improving full-stack applications  
+- Strengthening backend architecture and system design skills  
+- Seeking full-stack developer opportunities and collaborations  
 
 ---
 
