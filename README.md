@@ -7,8 +7,7 @@
 ## 👨‍💻 About Me
 
 - 💼 Full-Stack Developer seeking job opportunities  
-- 💻 Focused on building scalable and user-friendly software solutions  
-- 🐧 Linux user who enjoys working in open-source environments  
+- 💻 Focused on building scalable and user-friendly software solutions   
 - 📚 Continuously learning new technologies and improving problem-solving skills  
 - 🚀 Building real-world projects to strengthen my development experience  
 
@@ -17,7 +16,6 @@
 ## 🚀 What I'm Working On
 
 - Building and improving full-stack applications  
-- Strengthening backend architecture and system design skills  
 - Seeking full-stack developer opportunities and collaborations  
 
 ---
