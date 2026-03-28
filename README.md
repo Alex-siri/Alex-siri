@@ -48,10 +48,10 @@
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats (default Tokyonight) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Alex-siri&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api?username=Alex-siri&show_icons=true&theme=tokyonight" />
 
 <!-- Top Languages (default Tokyonight) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-siri&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-siri&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
 <!-- GitHub Streak (black background + golden) -->
 <img src="https://streak-stats.demolab.com?user=Alex-siri&theme=tokyonight&hide_border=true&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&sideNums=FFD700&currStreakNum=FFD700&dates=FFFFFF" />
