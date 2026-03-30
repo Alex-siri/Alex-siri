@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Place your image here. Remember to upload 'image.png' (or the image you provided) to your repository. -->
-<img src="image.png" alt="Header Image" width="100%">
+<!-- Place your image here. Remember to upload 'header-image.png' (or the image you provided) to your repository. -->
+<img src="header-image.png" alt="Header Image" width="100%">
 
 <br/>
 
