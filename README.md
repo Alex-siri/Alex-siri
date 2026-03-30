@@ -7,8 +7,7 @@
 ## 👨‍💻 About Me
 
 - 💼 Full-Stack Developer seeking job opportunities  
-- 💻 Focused on building scalable and user-friendly software solutions  
-- 🐧 Linux user who enjoys working in open-source environments  
+- 💻 Focused on building scalable and user-friendly software solutions   
 - 📚 Continuously learning new technologies and improving problem-solving skills  
 - 🚀 Building real-world projects to strengthen my development experience  
 
@@ -17,7 +16,6 @@
 ## 🚀 What I'm Working On
 
 - Building and improving full-stack applications  
-- Strengthening backend architecture and system design skills  
 - Seeking full-stack developer opportunities and collaborations  
 
 ---
@@ -49,11 +47,11 @@
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats (default Tokyonight) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Alex-siri&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400" />
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Alex-siri&show_icons=true&theme=tokyonight&count_private=true" alt="Alex-siri's GitHub stats" />
 
-<!-- Top Languages (default Tokyonight) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-siri&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400" />
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Alex-siri&layout=compact&theme=tokyonight&hide_progress=false&langs_count=8" alt="Alex-siri's Top Languages" />
 
 <!-- GitHub Streak (black background + golden) -->
 <img src="https://streak-stats.demolab.com?user=Alex-siri&theme=tokyonight&hide_border=true&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&sideNums=FFD700&currStreakNum=FFD700&dates=FFFFFF" />
