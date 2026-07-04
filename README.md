@@ -67,6 +67,15 @@
 
 <br/>
 
+### 🎯 Skills & Expertise
+
+| **Skill** | **Description** |
+|:---:|:---|
+| **Next.js** | Full-stack React framework for building modern web applications with server-side rendering (SSR), static generation (SSG), API routes, and optimized performance. |
+| **Node.js** | JavaScript runtime for building scalable server-side applications, RESTful APIs, microservices, and real-time applications with event-driven architecture. |
+
+<br/>
+
 ### 📬 Let's Connect!
 
 <div align="center">
