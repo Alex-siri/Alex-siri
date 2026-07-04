@@ -45,6 +45,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
    <img src="https://img.shields.io/badge/Mongodb-4479A1?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb" />
   <img src="https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=React&logoColor=blue" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <br/><br/>
   
   <strong>Tools & OS & Concepts</strong><br/>
@@ -64,15 +66,6 @@
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Alex-siri&layout=compact&theme=tokyonight&hide_progress=false&langs_count=8&v=1" alt="Alex-siri's Top Languages" height="195"/>
 <img src="https://streak-stats.demolab.com/?user=Alex-siri&theme=tokyonight&hide_border=false&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&sideNums=FFD700&currStreakNum=FFD700&dates=FFFFFF" />
 </div>
-
-<br/>
-
-### 🎯 Skills & Expertise
-
-| **Skill** | **Description** |
-|:---:|:---|
-| **Next.js** | Full-stack React framework for building modern web applications with server-side rendering (SSR), static generation (SSG), API routes, and optimized performance. |
-| **Node.js** | JavaScript runtime for building scalable server-side applications, RESTful APIs, microservices, and real-time applications with event-driven architecture. |
 
 <br/>
 
