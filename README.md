@@ -76,7 +76,7 @@
   <a href="https://www.linkedin.com/in/Alex-siri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/dovvmas"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://www.instagram.com/dovvmas/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href = "https://discord.com/users/alulamuzey"><img src="https://img.shields.io/badge/Discord-alulamuzey-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+ <a href="https://discord.com/users/alulamuzey"><img src="https://img.shields.io/badge/Discord-alulamuzey-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <br/><br/>
   <a href="tel:+251963512932"><img src="https://img.shields.io/badge/Call-%2B251963512932-black?style=for-the-badge&logo=phone&logoColor=FFD700" alt="Call +251 963 512 932" /></a>
   <a href="tel:+251704178721"><img src="https://img.shields.io/badge/Call-%2B251704178721-black?style=for-the-badge&logo=phone&logoColor=FFD700" alt="Call +251 704 178 721" /></a>
