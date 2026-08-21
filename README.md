@@ -1,10 +1,4 @@
 <div align="center">
-
-<!-- Place your image here. Remember to upload 'header-image.png' (or the image you provided) to your repository. -->
-<img src="header-image.png" alt="Header Image" width="100%">
-
-<br/>
-
 <a href="https://github.com/Alex-siri">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=FFD700&center=true&vCenter=true&width=900&height=80&lines=Alula+Muzey+Araya;Full-Stack+Developer;" alt="Typing Name Animation" />
 </a>
